@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou o @GuilhermeProencaCorrea
 - 👀 Tenho interece em tecnologia e inovação
 - 🌱 Atualente estou aprendendo HTML, Java Script e CSS
-- 💞️ Pretendo criar sites e desevolver aplicativos mobile
+- 💞️ Pretendo criar sites e desevolver aplicativos moveis
 - 📫 guilhermeproencacorrea@gmail.com
   
 <!---
